@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using LearningHashSortedSet.Entities;
 
@@ -6,19 +7,21 @@ namespace LearningHashSortedSet{
     
     class Program {
         static void Main(string[] args) {
-            HashSet<Product> a = new HashSet<Product>();
-            a.Add(new Product("TV", 900.0));
-            a.Add(new Product("Notebook", 1200.0));
-
-            HashSet<Point> b = new HashSet<Point>();
-            b.Add(new Point(3, 4));
-            b.Add(new Point(5, 10));
-
-            Product prod = new Product("Notebook", 1200.0);
-            Console.WriteLine(a.Contains(prod));
-
-            Point p = new Point(5, 10);
-            Console.WriteLine(b.Contains(p));
+            string path = @"c:\temp\in.txt";
+            HashSet<Log> logSet = new HashSet<Log>();
+            try {
+                using (StreamReader sr = File.OpenText(path)) {
+                    while (!sr.EndOfStream) {
+                        string line = sr.ReadLine();
+                        logSet.Add(new Log(line));
+                    }
+                    Console.WriteLine("Total users: {0}", logSet.Count);
+                }
+            }
+            catch (Exception e) {
+                Console.WriteLine("An error ocurred");
+                Console.WriteLine(e.Message);
+            }
         }
 
         static void PrintCollection<T>(IEnumerable<T> collection) {

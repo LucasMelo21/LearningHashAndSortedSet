@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearningHashSortedSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8557e01ea386f74aa7aad7cfbbe5e2a968fac30a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e608ddaf3dbd9d633535ee201324d124fe290f86")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearningHashSortedSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearningHashSortedSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
