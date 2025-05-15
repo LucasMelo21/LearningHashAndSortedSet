@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Melo\\source\\repos\\LearningHashSortedSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E3C28-AEAD-4AB8-944A-29E9ED33BB2D}|LearningHashSortedSet\\LearningHashSortedSet.csproj|c:\\users\\lucas melo\\source\\repos\\learninghashsortedset\\learninghashsortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E3C28-AEAD-4AB8-944A-29E9ED33BB2D}|LearningHashSortedSet\\LearningHashSortedSet.csproj|solutionrelative:learninghashsortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\LearningHashSortedSet\\LearningHashSortedSet\\Program.cs",
+              "RelativeDocumentMoniker": "LearningHashSortedSet\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\LearningHashSortedSet\\LearningHashSortedSet\\Program.cs",
+              "RelativeToolTip": "LearningHashSortedSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:30:56.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

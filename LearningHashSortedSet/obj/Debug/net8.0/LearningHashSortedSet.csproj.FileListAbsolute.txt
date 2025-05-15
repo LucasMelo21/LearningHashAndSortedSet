@@ -1,0 +1,14 @@
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\bin\Debug\net8.0\LearningHashSortedSet.exe
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\bin\Debug\net8.0\LearningHashSortedSet.deps.json
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\bin\Debug\net8.0\LearningHashSortedSet.runtimeconfig.json
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\bin\Debug\net8.0\LearningHashSortedSet.dll
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\bin\Debug\net8.0\LearningHashSortedSet.pdb
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.AssemblyInfoInputs.cache
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.AssemblyInfo.cs
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.dll
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\refint\LearningHashSortedSet.dll
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.pdb
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.genruntimeconfig.cache
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\ref\LearningHashSortedSet.dll
