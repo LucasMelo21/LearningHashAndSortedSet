@@ -12,3 +12,4 @@ C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj
 C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.pdb
 C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.genruntimeconfig.cache
 C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\ref\LearningHashSortedSet.dll
+C:\Users\Lucas Melo\source\repos\LearningHashSortedSet\LearningHashSortedSet\obj\Debug\net8.0\LearningHashSortedSet.sourcelink.json
